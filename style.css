@@ -1,0 +1,184 @@
+body {
+    background-color: gainsboro;
+
+}
+
+nav {
+    word-spacing: 20px;
+
+
+
+}
+
+#logo {
+    margin-inline: 2%;
+    margin-top: 2%;
+    margin-left: 60px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+
+}
+
+.bemvindo {
+    background-color: #213555;
+    color: white;
+
+}
+
+#formulario {
+    margin-inline: 38%;
+    color: black;
+    font-variant: small-caps;
+}
+
+#botao {
+    margin-inline: 38%;
+}
+
+.museudoolho {
+    border-color: #213555;
+
+
+}
+
+.social-media {
+    background-color: white;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+
+h1 {
+    background-color: #213555;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+#promocao {
+    background-color: #0056b3;
+    color: white;
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+
+}
+
+#boas-vindas {
+    background-color: #213555;
+}
+
+#faleconosco {
+    margin-inline: 40%;
+    color: black;
+    font-variant: small-caps;
+    text-align: left;
+
+}
+
+
+.formulario-destino {
+    border-radius: 10px;
+    color: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+
+}
+
+.col-md-4 {
+    width: 30%;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.img-fluid {
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.column h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.column p {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.column button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.column button:hover {
+    background-color: #0056b3;
+
+}
+
+footer {
+    background-color: #213555;
+    color: white;
+
+}
+
+.colfooter .titleFooter {
+    font-family: 'open_sansregular';
+    font-size: 1.3em;
+    color: #ffffff;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px #4ec0db solid;
+}
+
+.main_footer .content {
+    text-align: center;
+    width: 100;
+}
+
+.container {
+    float: center;
+    width: 100%;
+}
+
+.colfooter {
+    font-family: Arial, Helvetica, sans-serif font-size:1.3em;
+    color: #ffffff;
+    padding-bottom: 0.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px #4ec0db solid;
+}
+
+.main_footer_copy p {
+    text-align: center;
+}
